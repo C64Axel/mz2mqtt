@@ -1,0 +1,14 @@
+mqtt:
+  host:                  # your mqtthost
+  port: 1883             # your mqtt port - default 1883
+  user:                  # your mqtt user or empty when no authentication
+  password:              # your mqtt password
+  topic: mz2mqtt         # your mqtt topic - default mz2mqtt. Leave it default for evcc
+  clientname: mz2mqtt    # your mqtt clientname - default mz2mqtt
+mazda:
+  user:                  # email address from your Mazda account
+  password:              # password from your Mazda account
+  region: MME            # your Region (MNAO:North America, MME:Europe, MJO:Japan) - default MME
+status:
+  wait: 30               # wait time in minutes getting status - default 30
+  refreshwait: 2         # wait time in minutes after refresh data - default 2
