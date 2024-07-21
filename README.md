@@ -15,7 +15,7 @@ This Program based on code from bdr99, and it may stop working at any time witho
 
 Prerequisites:
 1. Set up your Car in the app.
-2. Create a second Driver for mazda2mqtt.
+2. Create a second Driver for mz2mqtt.
 
 ## Installation Guide:
 Clone the git repository.  
