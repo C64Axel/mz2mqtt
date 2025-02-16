@@ -57,7 +57,7 @@ APP_PACKAGE_ID = "com.interrait.mymazda"
 USER_AGENT_BASE_API = "MyMazda-Android/8.4.2"
 USER_AGENT_USHER_API = "MyMazda/8.4.2 (Google Pixel 3a; Android 11)"
 APP_OS = "Android"
-APP_VERSION = "8.4.2"
+APP_VERSION = "8.7.3"
 USHER_SDK_VERSION = "11.3.0700.001"
 
 MAX_RETRIES = 4
