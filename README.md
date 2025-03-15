@@ -1,3 +1,10 @@
+># THIS PROJECT IS NOT MAINTAINED ANY MORE
+># BECAUSE OF CHANGES IN THE MAZDA API
+https://github.com/github/dmca/blob/master/2023/10/2023-10-10-mazda.md
+---
+
+
+
 # mz2mqtt
 **Publish all Car Data to MQTT**
 
