@@ -1,5 +1,9 @@
 
 # mz2mqtt
+---
+># Mazda has migrated EU regions to a new authentication stack and new backend (API v2).
+># So mz2mqtt is not working any more
+---
 **Publish all Car Data to MQTT**
 
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
